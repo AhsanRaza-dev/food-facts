@@ -1,0 +1,186 @@
+# Brand Product Counts
+
+Total Matched Products: 77981
+
+| Brand | Count |
+|-------|-------|
+| Nestlé | 13588 |
+| Gourmet | 9299 |
+| Knorr | 5774 |
+| Maggi | 3751 |
+| Everyday | 3502 |
+| Kellogg's | 3470 |
+| Coca-Cola | 3010 |
+| Lipton | 2833 |
+| Cadbury | 2664 |
+| President | 2298 |
+| Quaker | 2006 |
+| Pepsi | 1878 |
+| Monster | 1626 |
+| Fanta | 1482 |
+| LU | 1422 |
+| Mentos | 1211 |
+| Mars | 1164 |
+| Vital | 1081 |
+| Cheetos | 882 |
+| Seasons | 857 |
+| Red Bull | 852 |
+| Lays | 830 |
+| Flora | 797 |
+| Max | 707 |
+| Menu | 665 |
+| KitKat | 661 |
+| Trident | 617 |
+| Snickers | 555 |
+| Sprite | 468 |
+| Tetley | 356 |
+| Twix | 353 |
+| Always | 350 |
+| Capri | 348 |
+| 7UP | 347 |
+| Supreme | 330 |
+| Tang | 325 |
+| Mountain Dew | 317 |
+| Tulip | 307 |
+| Sunridge | 303 |
+| English | 278 |
+| Clear | 270 |
+| Bounty | 267 |
+| Wonder | 257 |
+| Shan | 233 |
+| Dove | 211 |
+| National | 207 |
+| Leo | 205 |
+| Weetabix | 193 |
+| Tabasco | 183 |
+| Indomie | 176 |
+| Dettol | 140 |
+| Mitchell's | 139 |
+| Lurpak | 136 |
+| Dabur | 133 |
+| Himalaya | 126 |
+| Adams | 125 |
+| Dawn | 112 |
+| Eva | 102 |
+| Next | 101 |
+| American Garden | 97 |
+| Butterfly | 96 |
+| Young's | 90 |
+| Olivia | 86 |
+| Kiwi | 85 |
+| Emborg | 81 |
+| Blue Band | 71 |
+| Dasani | 66 |
+| Slice | 64 |
+| Sabroso | 53 |
+| Mayfair | 46 |
+| Ahmed | 45 |
+| Garnier | 45 |
+| Lux | 44 |
+| Aquafina | 43 |
+| Palmolive | 41 |
+| Colgate | 40 |
+| Bonus | 39 |
+| Maza | 38 |
+| Trust | 38 |
+| Nido | 37 |
+| Pears | 31 |
+| Pantene | 29 |
+| Marhaba | 29 |
+| Cerelac | 28 |
+| Kinley | 28 |
+| Kurkure | 28 |
+| Ariel | 27 |
+| Laziza | 25 |
+| Pampers | 22 |
+| Johnson's | 22 |
+| Sting | 21 |
+| Sunlight | 21 |
+| Old Spice | 21 |
+| Benz | 19 |
+| Peek Freans | 19 |
+| Ponds | 18 |
+| Bisconni | 17 |
+| Vaseline | 17 |
+| Good Milk | 16 |
+| Brite | 16 |
+| Guard | 15 |
+| Big Bird | 15 |
+| Prema | 13 |
+| Dipitt | 13 |
+| Gillette | 13 |
+| Shield | 13 |
+| Wavy | 12 |
+| Mehran | 11 |
+| Pakola | 11 |
+| Nivea | 11 |
+| Kolson | 10 |
+| Hilal | 10 |
+| Lifebuoy | 10 |
+| Hamdard | 10 |
+| Candyland | 9 |
+| Harpic | 9 |
+| Tapal | 8 |
+| Falak | 8 |
+| Shezan | 8 |
+| Finis | 8 |
+| Sensodyne | 8 |
+| Hemani | 8 |
+| Manta | 7 |
+| Kashmir | 7 |
+| Ding Dong | 7 |
+| Happy Cow | 7 |
+| Medora | 7 |
+| Sufi | 6 |
+| Bake Parlor | 6 |
+| Shangrila | 6 |
+| Naurus | 6 |
+| Habib | 5 |
+| Nurpur | 5 |
+| Vim | 5 |
+| Sunsilk | 5 |
+| Parodontax | 5 |
+| Mughal | 4 |
+| Fauji | 4 |
+| Head & Shoulders | 4 |
+| Qarshi | 4 |
+| Haleeb | 3 |
+| Salman's | 3 |
+| Rafhan | 3 |
+| Murree Brewery | 3 |
+| Super Crisp | 3 |
+| Domex | 3 |
+| Tibet | 3 |
+| Rejoice | 3 |
+| Glow & Lovely | 3 |
+| Day Fresh | 2 |
+| Anhaar | 2 |
+| Dalda | 2 |
+| Mezan | 2 |
+| Knock Out | 2 |
+| Pop Nosh | 2 |
+| Center Fresh | 2 |
+| K&N's | 2 |
+| Cherry Blossom | 2 |
+| Vatika | 2 |
+| L'Oreal | 2 |
+| Yardley | 2 |
+| CloseUp | 2 |
+| Chef's Pride | 1 |
+| Zaiqa | 1 |
+| Olper's | 1 |
+| Dairy Omung | 1 |
+| Tarang | 1 |
+| Kisan | 1 |
+| Manpasand | 1 |
+| Rossmoor | 1 |
+| Quice | 1 |
+| Top Pops | 1 |
+| Volka | 1 |
+| Surf Excel | 1 |
+| Mortein | 1 |
+| Safeguard | 1 |
+| Fair & Lovely | 1 |
+| Enchanteur | 1 |
+| Canbebe | 1 |
+| Golden Pearl | 1 |
