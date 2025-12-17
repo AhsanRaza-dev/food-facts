@@ -1,2 +1,3 @@
 openfoodfacts-products.jsonl.gz
 mapped_products.json
+.env
